@@ -42,7 +42,8 @@
   height: 30px;
 }
 
-.current-brush, .palette-color {
+.current-brush,
+.palette-color {
   width: 30px;
   height: 30px;
   border: 1px solid black;
